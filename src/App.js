@@ -3,7 +3,7 @@ import { ethers, providers } from 'ethers';
 import './App.css';
 import Greeter from './artifacts/contracts/Greeter.sol/Greeter.json'
 
-const greeterAddress = "0xedF8b989581778EAb2F3B4C0648D4A9F657079A0"
+const greeterAddress = "0xE9d012898c92F1926D1B971b6be29183565759fB"
 
 function App() {
   const [greeting, setGreetingValue] = useState('')
