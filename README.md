@@ -1,15 +1,5 @@
-# Basic Sample Hardhat Project
+# Put string on Etherum Ropsten Testnet
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+This project is my first attempt of deploying a smart contract on a real blockchain
 
-Try running some of the following tasks:
-
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
+The Dapp is deployed at [Website]()
